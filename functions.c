@@ -1,7 +1,11 @@
 /* 
 Name: Odd-Arild Kristensen
 net-id: ok552777
+<<<<<<< HEAD
 new line 1
+=======
+new line 2
+>>>>>>> b
 */
 
 // Includes the standard I/O library in the programme
