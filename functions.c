@@ -1,7 +1,11 @@
 /* 
 Name: Odd-Arild Kristensen
+<<<<<<< HEAD
 net-id: ok552777
 sdghjkhgfdszfjlk
+=======
+net-id: ok552888
+>>>>>>> 0d12ed1e49b170ce75e9253eb7b367797827a114
 <<<<<<< HEAD
 new line 1
 =======
